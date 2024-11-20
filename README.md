@@ -60,7 +60,7 @@ Constructor is an interactive web application that allows users to create, manip
 
 ## Authors
 
-- [Your Name](https://github.com/your-username)
+- pytagus
 
 ## License
 
